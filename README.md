@@ -1,6 +1,6 @@
 # Data Mining Project for Master Degree Program in Data Science and Advanced Analytics from NOVA IMS - Group 15
 
-##ABCDEats customer segmentation - Developing a data-drive strategy tailored to the needs of different customer segments
+## ABCDEats customer segmentation - Developing a data-drive strategy tailored to the needs of different customer segments
 
 ## PROJECT DESCRIPTION
 
